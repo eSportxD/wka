@@ -15,7 +15,6 @@ import webbrowser,os,builtins
 from multiprocessing import Process
 from rich.syntax import Syntax
 
-
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
 H = '\x1b[1;92m'
