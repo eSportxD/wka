@@ -1365,16 +1365,16 @@ def main(na,m):
 #    main()
 #from telebot.async_telebot import AsyncTeleBot
 Force_subsck=[]
-tok='7349613734:AAF9t3knjSQBJiACKJmEEImXivONNl9-XxA'
+tok='7131243688:AAHd0G5I4q2sg-kv_mzT4KchD8bTN7Tb0RY'
 bot=TeleBot(tok)
-admin=['6990361882']
+admin=['6808077277']
 import sys,os
 cu=(os.getcwd())
 from time import sleep
 
 layrs=0
-channel=['S_VD11']
-groups=['sbrndhhs']
+channel=['cat_cheats']
+groups=['decodepy']
 def als(om,m):
 	xs='stop'
 	mx='dec'
